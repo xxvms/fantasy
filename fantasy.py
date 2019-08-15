@@ -16,3 +16,4 @@ def display_inventory(inventory):
 
 
 display_inventory(stuff)
+# test
